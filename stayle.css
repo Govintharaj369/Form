@@ -1,0 +1,63 @@
+#d1{
+    margin: auto;
+    height: 560px;
+    width: 510px;
+    border: 3px solid black;
+    border: 1px solid black;
+    border-radius: 8px;
+    font-weight: 500;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#btn{
+    margin-top: 10px;
+    height: 30px;
+    width: 150px;
+    background: darkgreen;
+    color: white;
+    border-radius: 5px;
+    border: transparent;
+}
+h1,#p1{
+    margin-left: 10px;
+}
+#p1{
+    margin-top: -15px;
+}
+#d2,#d3,p{
+    margin-left: 12px;
+}
+#d2{
+    display: flex;
+}
+#s1:hover{
+    text-decoration: underline;
+
+}
+#s2:hover{
+    text-decoration: underline;
+}
+#s3:hover{
+    text-decoration: underline;
+}
+#s4:hover{
+    text-decoration: underline;
+}
+#s1,#s2,#s3,#s4{
+    color: rgb(50, 100, 231);
+}
+#d2{
+    margin-top: -15px;
+}
+#fn,#sn,#d{
+    height: 30px;
+    width: 230px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+#ea,#pass{
+    margin-top: -10px;
+    height: 30px;
+    width: 472px;
+    border-radius: 5px;
+    border: 0.5px solid black;
+}
